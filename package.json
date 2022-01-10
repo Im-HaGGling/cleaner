@@ -1,0 +1,19 @@
+{
+  "name": "cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Im-HaGGling/cleaner.git"
+  },
+  "author": "ImHaGGling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Im-HaGGling/cleaner/issues"
+  },
+  "homepage": "https://github.com/Im-HaGGling/cleaner#readme"
+}
